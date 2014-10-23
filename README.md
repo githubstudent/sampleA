@@ -1,3 +1,4 @@
 sampleA
 =======
-This should cause problems with a PR that includes edits to this line.
+Two independent line changes
+which will result in the PR becoming unmergable.
